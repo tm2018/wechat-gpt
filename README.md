@@ -9,9 +9,12 @@ ChatGPT微信小程序，可限制次数，分享增加次数。
 
 ![群聊二维码](/img/qrcode.png)
 
-参考项目：
+# 参考项目：
+
 https://github.com/super6wenzi/chatGPT-wx
+
 https://github.com/w15565133664/chatgpt-uniapp
 
-后端使用：
+# 后端使用：
+
 https://github.com/quchuanping/chatgpt-php
