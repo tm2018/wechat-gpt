@@ -7,7 +7,7 @@ ChatGPT微信小程序，可限制次数，分享增加次数。
 
 加入群聊：
 
-![群聊二维码](/img/qrcode.png)
+![群聊二维码](/img/qrcode1.png)
 
 # 参考项目：
 
