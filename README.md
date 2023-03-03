@@ -3,7 +3,7 @@ ChatGPT微信小程序，可限制次数，分享增加次数。
 
 效果演示：
 
-![演示](/img/xiaoguo.png)
+![演示](/img/xiaoguo.PNG)
 
 小程序体验：
 
