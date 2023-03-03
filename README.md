@@ -1,9 +1,13 @@
 # Wechat-gpt
 ChatGPT微信小程序，可限制次数，分享增加次数。
 
-小程序演示：
+效果演示：
 
-![演示](/img/appcode.jpeg)
+![演示](/img/xiaoguo.png)
+
+小程序体验：
+
+![体验](/img/appcode.jpeg)
 
 加入群聊：
 
